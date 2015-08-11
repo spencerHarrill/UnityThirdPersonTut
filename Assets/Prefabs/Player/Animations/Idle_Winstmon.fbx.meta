@@ -1,0 +1,1388 @@
+fileFormatVersion: 2
+guid: 0d5095b266e85114188ec065cd2c6962
+timeCreated: 1436768116
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: WinstmonBase:BELT
+    100004: WinstmonBase:BUTTONS_AND_MISC
+    100006: WinstmonBase:EYES
+    100008: WinstmonBase:Geo
+    100010: WinstmonBase:HAIR
+    100012: WinstmonBase:HANDS
+    100014: WinstmonBase:HAT
+    100016: WinstmonBase:hat1
+    100018: WinstmonBase:HEAD
+    100020: WinstmonBase:head1
+    100022: WinstmonBase:HORNY
+    100024: WinstmonBase:Joints
+    100026: WinstmonBase:L_ankle
+    100028: WinstmonBase:L_ball
+    100030: WinstmonBase:L_clav
+    100032: WinstmonBase:L_elbow
+    100034: WinstmonBase:L_eye
+    100036: WinstmonBase:L_hand
+    100038: WinstmonBase:L_hip
+    100040: WinstmonBase:L_index_01
+    100042: WinstmonBase:L_index_02
+    100044: WinstmonBase:L_index_03
+    100046: WinstmonBase:L_index_04
+    100048: WinstmonBase:L_knee
+    100050: WinstmonBase:L_middle_01
+    100052: WinstmonBase:L_middle_02
+    100054: WinstmonBase:L_middle_03
+    100056: WinstmonBase:L_middle_04
+    100058: WinstmonBase:L_pinky
+    100060: WinstmonBase:L_pinky_01
+    100062: WinstmonBase:L_pinky_02
+    100064: WinstmonBase:L_pinky_03
+    100066: WinstmonBase:L_pinky_04
+    100068: WinstmonBase:L_ring_01
+    100070: WinstmonBase:L_ring_02
+    100072: WinstmonBase:L_ring_03
+    100074: WinstmonBase:L_ring_04
+    100076: WinstmonBase:L_shoulder
+    100078: WinstmonBase:L_thumb_01
+    100080: WinstmonBase:L_thumb_02
+    100082: WinstmonBase:L_thumb_03
+    100084: WinstmonBase:L_thumb_04
+    100086: WinstmonBase:L_toe
+    100088: WinstmonBase:L_wrist
+    100090: WinstmonBase:LEGHOOVES
+    100092: WinstmonBase:neck
+    100094: WinstmonBase:PANTS
+    100096: WinstmonBase:pelvis
+    100098: WinstmonBase:R_ankle
+    100100: WinstmonBase:R_ball
+    100102: WinstmonBase:R_clav
+    100104: WinstmonBase:R_elbow
+    100106: WinstmonBase:R_eye
+    100108: WinstmonBase:R_hand
+    100110: WinstmonBase:R_hip
+    100112: WinstmonBase:R_index_01
+    100114: WinstmonBase:R_index_02
+    100116: WinstmonBase:R_index_03
+    100118: WinstmonBase:R_index_04
+    100120: WinstmonBase:R_knee
+    100122: WinstmonBase:R_middle_01
+    100124: WinstmonBase:R_middle_02
+    100126: WinstmonBase:R_middle_03
+    100128: WinstmonBase:R_middle_04
+    100130: WinstmonBase:R_pinky
+    100132: WinstmonBase:R_pinky_01
+    100134: WinstmonBase:R_pinky_02
+    100136: WinstmonBase:R_pinky_03
+    100138: WinstmonBase:R_pinky_04
+    100140: WinstmonBase:R_ring_01
+    100142: WinstmonBase:R_ring_02
+    100144: WinstmonBase:R_ring_03
+    100146: WinstmonBase:R_ring_04
+    100148: WinstmonBase:R_shoulder
+    100150: WinstmonBase:R_thumb_01
+    100152: WinstmonBase:R_thumb_02
+    100154: WinstmonBase:R_thumb_03
+    100156: WinstmonBase:R_thumb_04
+    100158: WinstmonBase:R_toe
+    100160: WinstmonBase:R_wrist
+    100162: WinstmonBase:root
+    100164: WinstmonBase:SHIRT
+    100166: WinstmonBase:spine_01
+    100168: WinstmonBase:spine_02
+    100170: WinstmonBase:spine_03
+    100172: WinstmonBase:spine_04
+    100174: WinstmonBase:top_head
+    100176: WinstmonBase:VEST
+    400000: //RootNode
+    400002: WinstmonBase:BELT
+    400004: WinstmonBase:BUTTONS_AND_MISC
+    400006: WinstmonBase:EYES
+    400008: WinstmonBase:Geo
+    400010: WinstmonBase:HAIR
+    400012: WinstmonBase:HANDS
+    400014: WinstmonBase:HAT
+    400016: WinstmonBase:hat1
+    400018: WinstmonBase:HEAD
+    400020: WinstmonBase:head1
+    400022: WinstmonBase:HORNY
+    400024: WinstmonBase:Joints
+    400026: WinstmonBase:L_ankle
+    400028: WinstmonBase:L_ball
+    400030: WinstmonBase:L_clav
+    400032: WinstmonBase:L_elbow
+    400034: WinstmonBase:L_eye
+    400036: WinstmonBase:L_hand
+    400038: WinstmonBase:L_hip
+    400040: WinstmonBase:L_index_01
+    400042: WinstmonBase:L_index_02
+    400044: WinstmonBase:L_index_03
+    400046: WinstmonBase:L_index_04
+    400048: WinstmonBase:L_knee
+    400050: WinstmonBase:L_middle_01
+    400052: WinstmonBase:L_middle_02
+    400054: WinstmonBase:L_middle_03
+    400056: WinstmonBase:L_middle_04
+    400058: WinstmonBase:L_pinky
+    400060: WinstmonBase:L_pinky_01
+    400062: WinstmonBase:L_pinky_02
+    400064: WinstmonBase:L_pinky_03
+    400066: WinstmonBase:L_pinky_04
+    400068: WinstmonBase:L_ring_01
+    400070: WinstmonBase:L_ring_02
+    400072: WinstmonBase:L_ring_03
+    400074: WinstmonBase:L_ring_04
+    400076: WinstmonBase:L_shoulder
+    400078: WinstmonBase:L_thumb_01
+    400080: WinstmonBase:L_thumb_02
+    400082: WinstmonBase:L_thumb_03
+    400084: WinstmonBase:L_thumb_04
+    400086: WinstmonBase:L_toe
+    400088: WinstmonBase:L_wrist
+    400090: WinstmonBase:LEGHOOVES
+    400092: WinstmonBase:neck
+    400094: WinstmonBase:PANTS
+    400096: WinstmonBase:pelvis
+    400098: WinstmonBase:R_ankle
+    400100: WinstmonBase:R_ball
+    400102: WinstmonBase:R_clav
+    400104: WinstmonBase:R_elbow
+    400106: WinstmonBase:R_eye
+    400108: WinstmonBase:R_hand
+    400110: WinstmonBase:R_hip
+    400112: WinstmonBase:R_index_01
+    400114: WinstmonBase:R_index_02
+    400116: WinstmonBase:R_index_03
+    400118: WinstmonBase:R_index_04
+    400120: WinstmonBase:R_knee
+    400122: WinstmonBase:R_middle_01
+    400124: WinstmonBase:R_middle_02
+    400126: WinstmonBase:R_middle_03
+    400128: WinstmonBase:R_middle_04
+    400130: WinstmonBase:R_pinky
+    400132: WinstmonBase:R_pinky_01
+    400134: WinstmonBase:R_pinky_02
+    400136: WinstmonBase:R_pinky_03
+    400138: WinstmonBase:R_pinky_04
+    400140: WinstmonBase:R_ring_01
+    400142: WinstmonBase:R_ring_02
+    400144: WinstmonBase:R_ring_03
+    400146: WinstmonBase:R_ring_04
+    400148: WinstmonBase:R_shoulder
+    400150: WinstmonBase:R_thumb_01
+    400152: WinstmonBase:R_thumb_02
+    400154: WinstmonBase:R_thumb_03
+    400156: WinstmonBase:R_thumb_04
+    400158: WinstmonBase:R_toe
+    400160: WinstmonBase:R_wrist
+    400162: WinstmonBase:root
+    400164: WinstmonBase:SHIRT
+    400166: WinstmonBase:spine_01
+    400168: WinstmonBase:spine_02
+    400170: WinstmonBase:spine_03
+    400172: WinstmonBase:spine_04
+    400174: WinstmonBase:top_head
+    400176: WinstmonBase:VEST
+    4300000: WinstmonBase:EYES
+    4300002: WinstmonBase:HAT
+    4300004: WinstmonBase:HAIR
+    4300006: WinstmonBase:BUTTONS_AND_MISC
+    4300008: WinstmonBase:PANTS
+    4300010: WinstmonBase:LEGHOOVES
+    4300012: WinstmonBase:HANDS
+    4300014: WinstmonBase:VEST
+    4300016: WinstmonBase:SHIRT
+    4300018: WinstmonBase:BELT
+    4300020: WinstmonBase:HEAD
+    4300022: WinstmonBase:HORNY
+    7400000: Idle
+    9500000: //RootNode
+    13700000: WinstmonBase:BELT
+    13700002: WinstmonBase:BUTTONS_AND_MISC
+    13700004: WinstmonBase:EYES
+    13700006: WinstmonBase:HAIR
+    13700008: WinstmonBase:HANDS
+    13700010: WinstmonBase:HAT
+    13700012: WinstmonBase:HEAD
+    13700014: WinstmonBase:HORNY
+    13700016: WinstmonBase:LEGHOOVES
+    13700018: WinstmonBase:PANTS
+    13700020: WinstmonBase:SHIRT
+    13700022: WinstmonBase:VEST
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 'MuscleClip ''Idle_Winstmon'' conversion warning: ''WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:L_hip/WinstmonBase:L_knee/WinstmonBase:L_ankle/WinstmonBase:L_ball''
+      is between humanoid transforms and has rotation animation. This might lower
+      retargeting quality.
+
+
+'
+    animationRetargetingWarnings: 'MuscleClip ''Idle_Winstmon''conversion warning:
+      LeftLowerLeg average position error 16.9 mm and maximum position error 19.2
+      mm at 9%
+
+
+      MuscleClip ''Idle_Winstmon''conversion warning: RightLowerLeg average position
+      error 16.8 mm and maximum position error 19.2 mm at 0%
+
+
+      MuscleClip ''Idle_Winstmon''conversion warning: LeftUpperArm average position
+      error 9.5 mm and maximum position error 9.5 mm at 13%
+
+
+      MuscleClip ''Idle_Winstmon''conversion warning: LeftLowerArm average position
+      error 5.5 mm and maximum position error 5.5 mm at 3%
+
+
+      MuscleClip ''Idle_Winstmon''conversion warning: LeftHand average position error
+      2.6 mm and maximum position error 2.6 mm at 11%
+
+
+      MuscleClip ''Idle_Winstmon''conversion warning: RightUpperArm average position
+      error 9.5 mm and maximum position error 9.5 mm at 13%
+
+
+      MuscleClip ''Idle_Winstmon''conversion warning: RightLowerArm average position
+      error 5.6 mm and maximum position error 5.6 mm at 2%
+
+
+      MuscleClip ''Idle_Winstmon''conversion warning: RightHand average position error
+      2.7 mm and maximum position error 2.7 mm at 2%
+
+
+      MuscleClip ''Idle_Winstmon''conversion warning: Head average position error
+      9.5 mm and maximum position error 9.5 mm at 13%
+
+
+'
+    animationDoRetargetingWarnings: 1
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: WinstmonBase:Geo
+        weight: 0
+      - path: WinstmonBase:Geo/WinstmonBase:BELT
+        weight: 0
+      - path: WinstmonBase:Geo/WinstmonBase:BUTTONS_AND_MISC
+        weight: 0
+      - path: WinstmonBase:Geo/WinstmonBase:EYES
+        weight: 0
+      - path: WinstmonBase:Geo/WinstmonBase:HAIR
+        weight: 0
+      - path: WinstmonBase:Geo/WinstmonBase:HANDS
+        weight: 0
+      - path: WinstmonBase:Geo/WinstmonBase:HAT
+        weight: 0
+      - path: WinstmonBase:Geo/WinstmonBase:HEAD
+        weight: 0
+      - path: WinstmonBase:Geo/WinstmonBase:HORNY
+        weight: 0
+      - path: WinstmonBase:Geo/WinstmonBase:LEGHOOVES
+        weight: 0
+      - path: WinstmonBase:Geo/WinstmonBase:PANTS
+        weight: 0
+      - path: WinstmonBase:Geo/WinstmonBase:SHIRT
+        weight: 0
+      - path: WinstmonBase:Geo/WinstmonBase:VEST
+        weight: 0
+      - path: WinstmonBase:Joints
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:hat1
+        weight: 0
+      - path: WinstmonBase:Joints/WinstmonBase:root
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:L_hip
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:L_hip/WinstmonBase:L_knee
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:L_hip/WinstmonBase:L_knee/WinstmonBase:L_ankle
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:L_hip/WinstmonBase:L_knee/WinstmonBase:L_ankle/WinstmonBase:L_ball
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:L_hip/WinstmonBase:L_knee/WinstmonBase:L_ankle/WinstmonBase:L_ball/WinstmonBase:L_toe
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:R_hip
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:R_hip/WinstmonBase:R_knee
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:R_hip/WinstmonBase:R_knee/WinstmonBase:R_ankle
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:R_hip/WinstmonBase:R_knee/WinstmonBase:R_ankle/WinstmonBase:R_ball
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:R_hip/WinstmonBase:R_knee/WinstmonBase:R_ankle/WinstmonBase:R_ball/WinstmonBase:R_toe
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:L_clav
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:L_clav/WinstmonBase:L_shoulder
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:L_clav/WinstmonBase:L_shoulder/WinstmonBase:L_elbow
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:L_clav/WinstmonBase:L_shoulder/WinstmonBase:L_elbow/WinstmonBase:L_wrist
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:L_clav/WinstmonBase:L_shoulder/WinstmonBase:L_elbow/WinstmonBase:L_wrist/WinstmonBase:L_hand
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:L_clav/WinstmonBase:L_shoulder/WinstmonBase:L_elbow/WinstmonBase:L_wrist/WinstmonBase:L_hand/WinstmonBase:L_index_01
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:L_clav/WinstmonBase:L_shoulder/WinstmonBase:L_elbow/WinstmonBase:L_wrist/WinstmonBase:L_hand/WinstmonBase:L_index_01/WinstmonBase:L_index_02
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:L_clav/WinstmonBase:L_shoulder/WinstmonBase:L_elbow/WinstmonBase:L_wrist/WinstmonBase:L_hand/WinstmonBase:L_index_01/WinstmonBase:L_index_02/WinstmonBase:L_index_03
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:L_clav/WinstmonBase:L_shoulder/WinstmonBase:L_elbow/WinstmonBase:L_wrist/WinstmonBase:L_hand/WinstmonBase:L_index_01/WinstmonBase:L_index_02/WinstmonBase:L_index_03/WinstmonBase:L_index_04
+        weight: 0
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:L_clav/WinstmonBase:L_shoulder/WinstmonBase:L_elbow/WinstmonBase:L_wrist/WinstmonBase:L_hand/WinstmonBase:L_middle_01
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:L_clav/WinstmonBase:L_shoulder/WinstmonBase:L_elbow/WinstmonBase:L_wrist/WinstmonBase:L_hand/WinstmonBase:L_middle_01/WinstmonBase:L_middle_02
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:L_clav/WinstmonBase:L_shoulder/WinstmonBase:L_elbow/WinstmonBase:L_wrist/WinstmonBase:L_hand/WinstmonBase:L_middle_01/WinstmonBase:L_middle_02/WinstmonBase:L_middle_03
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:L_clav/WinstmonBase:L_shoulder/WinstmonBase:L_elbow/WinstmonBase:L_wrist/WinstmonBase:L_hand/WinstmonBase:L_middle_01/WinstmonBase:L_middle_02/WinstmonBase:L_middle_03/WinstmonBase:L_middle_04
+        weight: 0
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:L_clav/WinstmonBase:L_shoulder/WinstmonBase:L_elbow/WinstmonBase:L_wrist/WinstmonBase:L_hand/WinstmonBase:L_pinky
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:L_clav/WinstmonBase:L_shoulder/WinstmonBase:L_elbow/WinstmonBase:L_wrist/WinstmonBase:L_hand/WinstmonBase:L_pinky/WinstmonBase:L_pinky_01
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:L_clav/WinstmonBase:L_shoulder/WinstmonBase:L_elbow/WinstmonBase:L_wrist/WinstmonBase:L_hand/WinstmonBase:L_pinky/WinstmonBase:L_pinky_01/WinstmonBase:L_pinky_02
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:L_clav/WinstmonBase:L_shoulder/WinstmonBase:L_elbow/WinstmonBase:L_wrist/WinstmonBase:L_hand/WinstmonBase:L_pinky/WinstmonBase:L_pinky_01/WinstmonBase:L_pinky_02/WinstmonBase:L_pinky_03
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:L_clav/WinstmonBase:L_shoulder/WinstmonBase:L_elbow/WinstmonBase:L_wrist/WinstmonBase:L_hand/WinstmonBase:L_pinky/WinstmonBase:L_pinky_01/WinstmonBase:L_pinky_02/WinstmonBase:L_pinky_03/WinstmonBase:L_pinky_04
+        weight: 0
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:L_clav/WinstmonBase:L_shoulder/WinstmonBase:L_elbow/WinstmonBase:L_wrist/WinstmonBase:L_hand/WinstmonBase:L_ring_01
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:L_clav/WinstmonBase:L_shoulder/WinstmonBase:L_elbow/WinstmonBase:L_wrist/WinstmonBase:L_hand/WinstmonBase:L_ring_01/WinstmonBase:L_ring_02
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:L_clav/WinstmonBase:L_shoulder/WinstmonBase:L_elbow/WinstmonBase:L_wrist/WinstmonBase:L_hand/WinstmonBase:L_ring_01/WinstmonBase:L_ring_02/WinstmonBase:L_ring_03
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:L_clav/WinstmonBase:L_shoulder/WinstmonBase:L_elbow/WinstmonBase:L_wrist/WinstmonBase:L_hand/WinstmonBase:L_ring_01/WinstmonBase:L_ring_02/WinstmonBase:L_ring_03/WinstmonBase:L_ring_04
+        weight: 0
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:L_clav/WinstmonBase:L_shoulder/WinstmonBase:L_elbow/WinstmonBase:L_wrist/WinstmonBase:L_hand/WinstmonBase:L_thumb_01
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:L_clav/WinstmonBase:L_shoulder/WinstmonBase:L_elbow/WinstmonBase:L_wrist/WinstmonBase:L_hand/WinstmonBase:L_thumb_01/WinstmonBase:L_thumb_02
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:L_clav/WinstmonBase:L_shoulder/WinstmonBase:L_elbow/WinstmonBase:L_wrist/WinstmonBase:L_hand/WinstmonBase:L_thumb_01/WinstmonBase:L_thumb_02/WinstmonBase:L_thumb_03
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:L_clav/WinstmonBase:L_shoulder/WinstmonBase:L_elbow/WinstmonBase:L_wrist/WinstmonBase:L_hand/WinstmonBase:L_thumb_01/WinstmonBase:L_thumb_02/WinstmonBase:L_thumb_03/WinstmonBase:L_thumb_04
+        weight: 0
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:R_clav
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:R_clav/WinstmonBase:R_shoulder
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:R_clav/WinstmonBase:R_shoulder/WinstmonBase:R_elbow
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:R_clav/WinstmonBase:R_shoulder/WinstmonBase:R_elbow/WinstmonBase:R_wrist
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:R_clav/WinstmonBase:R_shoulder/WinstmonBase:R_elbow/WinstmonBase:R_wrist/WinstmonBase:R_hand
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:R_clav/WinstmonBase:R_shoulder/WinstmonBase:R_elbow/WinstmonBase:R_wrist/WinstmonBase:R_hand/WinstmonBase:R_index_01
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:R_clav/WinstmonBase:R_shoulder/WinstmonBase:R_elbow/WinstmonBase:R_wrist/WinstmonBase:R_hand/WinstmonBase:R_index_01/WinstmonBase:R_index_02
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:R_clav/WinstmonBase:R_shoulder/WinstmonBase:R_elbow/WinstmonBase:R_wrist/WinstmonBase:R_hand/WinstmonBase:R_index_01/WinstmonBase:R_index_02/WinstmonBase:R_index_03
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:R_clav/WinstmonBase:R_shoulder/WinstmonBase:R_elbow/WinstmonBase:R_wrist/WinstmonBase:R_hand/WinstmonBase:R_index_01/WinstmonBase:R_index_02/WinstmonBase:R_index_03/WinstmonBase:R_index_04
+        weight: 0
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:R_clav/WinstmonBase:R_shoulder/WinstmonBase:R_elbow/WinstmonBase:R_wrist/WinstmonBase:R_hand/WinstmonBase:R_middle_01
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:R_clav/WinstmonBase:R_shoulder/WinstmonBase:R_elbow/WinstmonBase:R_wrist/WinstmonBase:R_hand/WinstmonBase:R_middle_01/WinstmonBase:R_middle_02
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:R_clav/WinstmonBase:R_shoulder/WinstmonBase:R_elbow/WinstmonBase:R_wrist/WinstmonBase:R_hand/WinstmonBase:R_middle_01/WinstmonBase:R_middle_02/WinstmonBase:R_middle_03
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:R_clav/WinstmonBase:R_shoulder/WinstmonBase:R_elbow/WinstmonBase:R_wrist/WinstmonBase:R_hand/WinstmonBase:R_middle_01/WinstmonBase:R_middle_02/WinstmonBase:R_middle_03/WinstmonBase:R_middle_04
+        weight: 0
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:R_clav/WinstmonBase:R_shoulder/WinstmonBase:R_elbow/WinstmonBase:R_wrist/WinstmonBase:R_hand/WinstmonBase:R_pinky
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:R_clav/WinstmonBase:R_shoulder/WinstmonBase:R_elbow/WinstmonBase:R_wrist/WinstmonBase:R_hand/WinstmonBase:R_pinky/WinstmonBase:R_pinky_01
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:R_clav/WinstmonBase:R_shoulder/WinstmonBase:R_elbow/WinstmonBase:R_wrist/WinstmonBase:R_hand/WinstmonBase:R_pinky/WinstmonBase:R_pinky_01/WinstmonBase:R_pinky_02
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:R_clav/WinstmonBase:R_shoulder/WinstmonBase:R_elbow/WinstmonBase:R_wrist/WinstmonBase:R_hand/WinstmonBase:R_pinky/WinstmonBase:R_pinky_01/WinstmonBase:R_pinky_02/WinstmonBase:R_pinky_03
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:R_clav/WinstmonBase:R_shoulder/WinstmonBase:R_elbow/WinstmonBase:R_wrist/WinstmonBase:R_hand/WinstmonBase:R_pinky/WinstmonBase:R_pinky_01/WinstmonBase:R_pinky_02/WinstmonBase:R_pinky_03/WinstmonBase:R_pinky_04
+        weight: 0
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:R_clav/WinstmonBase:R_shoulder/WinstmonBase:R_elbow/WinstmonBase:R_wrist/WinstmonBase:R_hand/WinstmonBase:R_ring_01
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:R_clav/WinstmonBase:R_shoulder/WinstmonBase:R_elbow/WinstmonBase:R_wrist/WinstmonBase:R_hand/WinstmonBase:R_ring_01/WinstmonBase:R_ring_02
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:R_clav/WinstmonBase:R_shoulder/WinstmonBase:R_elbow/WinstmonBase:R_wrist/WinstmonBase:R_hand/WinstmonBase:R_ring_01/WinstmonBase:R_ring_02/WinstmonBase:R_ring_03
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:R_clav/WinstmonBase:R_shoulder/WinstmonBase:R_elbow/WinstmonBase:R_wrist/WinstmonBase:R_hand/WinstmonBase:R_ring_01/WinstmonBase:R_ring_02/WinstmonBase:R_ring_03/WinstmonBase:R_ring_04
+        weight: 0
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:R_clav/WinstmonBase:R_shoulder/WinstmonBase:R_elbow/WinstmonBase:R_wrist/WinstmonBase:R_hand/WinstmonBase:R_thumb_01
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:R_clav/WinstmonBase:R_shoulder/WinstmonBase:R_elbow/WinstmonBase:R_wrist/WinstmonBase:R_hand/WinstmonBase:R_thumb_01/WinstmonBase:R_thumb_02
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:R_clav/WinstmonBase:R_shoulder/WinstmonBase:R_elbow/WinstmonBase:R_wrist/WinstmonBase:R_hand/WinstmonBase:R_thumb_01/WinstmonBase:R_thumb_02/WinstmonBase:R_thumb_03
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:R_clav/WinstmonBase:R_shoulder/WinstmonBase:R_elbow/WinstmonBase:R_wrist/WinstmonBase:R_hand/WinstmonBase:R_thumb_01/WinstmonBase:R_thumb_02/WinstmonBase:R_thumb_03/WinstmonBase:R_thumb_04
+        weight: 0
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:spine_04
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:spine_04/WinstmonBase:neck
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:spine_04/WinstmonBase:neck/WinstmonBase:head1
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:spine_04/WinstmonBase:neck/WinstmonBase:head1/WinstmonBase:L_eye
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:spine_04/WinstmonBase:neck/WinstmonBase:head1/WinstmonBase:R_eye
+        weight: 1
+      - path: WinstmonBase:Joints/WinstmonBase:root/WinstmonBase:pelvis/WinstmonBase:spine_01/WinstmonBase:spine_02/WinstmonBase:spine_03/WinstmonBase:spine_04/WinstmonBase:neck/WinstmonBase:head1/WinstmonBase:top_head
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: WinstmonBase:root
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:L_hip
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:R_hip
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:L_knee
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:R_knee
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:L_ankle
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:R_ankle
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:spine_01
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:spine_03
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:head1
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:L_clav
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:R_clav
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:L_shoulder
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:R_shoulder
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:L_elbow
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:R_elbow
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:L_wrist
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:R_wrist
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:L_toe
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:R_toe
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:L_eye
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:R_eye
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:L_thumb_01
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:L_thumb_02
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:L_thumb_03
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:L_index_01
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:L_index_02
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:L_index_03
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:L_middle_01
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:L_middle_02
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:L_middle_03
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:L_ring_01
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:L_ring_02
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:L_ring_03
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:L_pinky_01
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:L_pinky_02
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:L_pinky_03
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:R_thumb_01
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:R_thumb_02
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:R_thumb_03
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:R_index_01
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:R_index_02
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:R_index_03
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:R_middle_01
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:R_middle_02
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:R_middle_03
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:R_ring_01
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:R_ring_02
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:R_ring_03
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:R_pinky_01
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:R_pinky_02
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WinstmonBase:R_pinky_03
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Idle_Winstmon(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: WinstmonBase:Geo
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: WinstmonBase:BELT
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: WinstmonBase:BUTTONS_AND_MISC
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: WinstmonBase:EYES
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: WinstmonBase:HAIR
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: WinstmonBase:HANDS
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: WinstmonBase:HAT
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: WinstmonBase:HEAD
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: WinstmonBase:HORNY
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: WinstmonBase:LEGHOOVES
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: WinstmonBase:PANTS
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: WinstmonBase:SHIRT
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: WinstmonBase:VEST
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: WinstmonBase:Joints
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: WinstmonBase:hat1
+      position: {x: -0, y: .222721711, z: .00244223257}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: WinstmonBase:root
+      position: {x: 0, y: .134096488, z: .0127443131}
+      rotation: {x: 0, y: 2.9103826e-09, z: 0, w: 1}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: WinstmonBase:pelvis
+      position: {x: -0, y: -1.19015905e-14, z: -1.1568524e-15}
+      rotation: {x: .480592579, y: -.518681705, z: -.480592579, w: .518681765}
+      scale: {x: .999998868, y: .999998868, z: .99999994}
+      transformModified: 1
+    - name: WinstmonBase:spine_01
+      position: {x: -.00611705892, y: 4.93038055e-34, z: -2.67947323e-19}
+      rotation: {x: 5.96046448e-08, y: -5.96046448e-08, z: -.00312370062, w: .999995112}
+      scale: {x: 1.00000024, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: WinstmonBase:spine_02
+      position: {x: -.00823260378, y: 4.16968409e-19, z: -3.65958062e-18}
+      rotation: {x: -5.96046448e-08, y: 8.94069672e-08, z: .0790717155, w: .996868968}
+      scale: {x: 1.00000107, y: 1.00000095, z: 1.00000024}
+      transformModified: 1
+    - name: WinstmonBase:spine_03
+      position: {x: -.00807195809, y: -9.48324274e-18, z: -3.96368199e-18}
+      rotation: {x: 2.98023224e-08, y: -5.96046448e-08, z: .0246880651, w: .999695182}
+      scale: {x: .999999166, y: .999999106, z: 1}
+      transformModified: 1
+    - name: WinstmonBase:L_clav
+      position: {x: -.0260932557, y: -.00283344649, z: .00207870756}
+      rotation: {x: -.428400606, y: .562559187, z: .423597544, w: .566184759}
+      scale: {x: 1.00000012, y: 1.0000006, z: 1.00000048}
+      transformModified: 1
+    - name: WinstmonBase:L_shoulder
+      position: {x: -.0127351806, y: -1.47977665e-17, z: 2.19263267e-18}
+      rotation: {x: -.0132559473, y: -.00303516141, z: .0310015809, w: .999426842}
+      scale: {x: .999999464, y: .999999702, z: .999999881}
+      transformModified: 1
+    - name: WinstmonBase:L_elbow
+      position: {x: -.0332881436, y: 2.37586579e-18, z: 1.27264864e-17}
+      rotation: {x: .0739095435, y: .0368817262, z: -.0397160947, w: .995791078}
+      scale: {x: 1.00000024, y: .999999404, z: 1.00000048}
+      transformModified: 1
+    - name: WinstmonBase:L_wrist
+      position: {x: -.0309212338, y: -9.64181822e-18, z: 9.94457543e-18}
+      rotation: {x: .0236303546, y: .0387174673, z: .0168600585, w: .998828471}
+      scale: {x: .999999762, y: .999999762, z: 1.00000012}
+      transformModified: 1
+    - name: WinstmonBase:L_hand
+      position: {x: -.00981977955, y: 4.63924828e-20, z: 1.21998858e-17}
+      rotation: {x: -.0911946371, y: -.128859654, z: .0503618531, w: .986175656}
+      scale: {x: 1.00000024, y: 1.00000024, z: .999999523}
+      transformModified: 1
+    - name: WinstmonBase:L_ring_01
+      position: {x: -.00808969326, y: 4.86343819e-17, z: 6.94228948e-18}
+      rotation: {x: .024699416, y: .100428231, z: .0259571746, w: .994298995}
+      scale: {x: 1.00000012, y: .999999523, z: 1.00000024}
+      transformModified: 1
+    - name: WinstmonBase:L_ring_02
+      position: {x: -.0032887985, y: -1.8270767e-17, z: 6.21682117e-19}
+      rotation: {x: -.0227199551, y: -.0208124612, z: -.0358574502, w: .998881876}
+      scale: {x: 1.00000048, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: WinstmonBase:L_ring_03
+      position: {x: -.00353340828, y: -1.08334749e-18, z: -1.95381749e-22}
+      rotation: {x: .0133592598, y: .014411509, z: -.0235371366, w: .999529779}
+      scale: {x: .999999583, y: .999999702, z: .999999702}
+      transformModified: 1
+    - name: WinstmonBase:L_ring_04
+      position: {x: -.00470622489, y: 7.01501603e-18, z: 1.19082348e-18}
+      rotation: {x: -.00663304375, y: -.0175161995, z: -.354075879, w: .935029149}
+      scale: {x: .999999642, y: 1.00000048, z: 1}
+      transformModified: 1
+    - name: WinstmonBase:L_middle_01
+      position: {x: -.00781276543, y: .000184049321, z: .00303689716}
+      rotation: {x: .093524687, y: .124251939, z: .0355938263, w: .987191796}
+      scale: {x: 1.00000024, y: 1, z: .999999762}
+      transformModified: 1
+    - name: WinstmonBase:L_middle_02
+      position: {x: -.00393335475, y: 7.22819867e-18, z: -3.43993025e-18}
+      rotation: {x: -.0084542688, y: -.00855741836, z: -.0415237956, w: .999065161}
+      scale: {x: 1.00000012, y: .999999642, z: 1}
+      transformModified: 1
+    - name: WinstmonBase:L_middle_03
+      position: {x: -.00331477285, y: 9.21670943e-18, z: -4.98496881e-19}
+      rotation: {x: -.00545073627, y: -.00629190169, z: -.0238926336, w: .999679923}
+      scale: {x: .999999762, y: 1.00000036, z: 1.00000024}
+      transformModified: 1
+    - name: WinstmonBase:L_middle_04
+      position: {x: -.00437740702, y: 1.68046638e-17, z: -7.5144925e-18}
+      rotation: {x: -.036865443, y: -.10258241, z: -.336181968, w: .935467482}
+      scale: {x: .999999642, y: 1.0000006, z: 1}
+      transformModified: 1
+    - name: WinstmonBase:L_index_01
+      position: {x: -.00636155158, y: .000238204477, z: .00608979398}
+      rotation: {x: .187864274, y: .185302764, z: .0168617889, w: .96440953}
+      scale: {x: 1.00000036, y: 1.00000024, z: .999999762}
+      transformModified: 1
+    - name: WinstmonBase:L_index_02
+      position: {x: -.00337254815, y: -9.50492397e-18, z: 1.35295202e-18}
+      rotation: {x: -.0248327348, y: -.0137110688, z: -.0373077467, w: .998901188}
+      scale: {x: .999999762, y: .999999881, z: 1.00000012}
+      transformModified: 1
+    - name: WinstmonBase:L_index_03
+      position: {x: -.00290925894, y: -2.02888081e-17, z: -7.0622561e-20}
+      rotation: {x: .000337154488, y: .000397844153, z: -.041216135, w: .999150157}
+      scale: {x: .999999762, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: WinstmonBase:L_index_04
+      position: {x: -.00404064357, y: 1.45097042e-17, z: 1.37964762e-18}
+      rotation: {x: -.068096675, y: -.228650302, z: -.27718851, w: .93072468}
+      scale: {x: .999999881, y: 1.00000048, z: .999999881}
+      transformModified: 1
+    - name: WinstmonBase:L_thumb_01
+      position: {x: .0049860673, y: -.0013311517, z: .00169285666}
+      rotation: {x: .286719501, y: .471904069, z: -.0974635184, w: .828009248}
+      scale: {x: 1.00000072, y: 1.00000048, z: .999998987}
+      transformModified: 1
+    - name: WinstmonBase:L_thumb_02
+      position: {x: -.00560568785, y: -5.93675012e-18, z: 3.37354984e-18}
+      rotation: {x: .116693534, y: .0337130241, z: -.00309662474, w: .992590785}
+      scale: {x: 1.00000048, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: WinstmonBase:L_thumb_03
+      position: {x: -.00413519377, y: -1.34771776e-17, z: 1.36970033e-17}
+      rotation: {x: .00957755558, y: .00868885033, z: .0393433347, w: .999142051}
+      scale: {x: .999999821, y: 1, z: 1.00000024}
+      transformModified: 1
+    - name: WinstmonBase:L_thumb_04
+      position: {x: -.00393345347, y: -1.71758115e-17, z: 9.47408668e-18}
+      rotation: {x: -.231274053, y: -.683765113, z: -.221746206, w: .655596077}
+      scale: {x: 1.00000012, y: 1.00000048, z: .999999583}
+      transformModified: 1
+    - name: WinstmonBase:L_pinky
+      position: {x: .00208124355, y: -.000263060705, z: -.00345027493}
+      rotation: {x: .0268348642, y: .033585798, z: .00721943565, w: .999049425}
+      scale: {x: 1, y: .999999642, z: .999999881}
+      transformModified: 1
+    - name: WinstmonBase:L_pinky_01
+      position: {x: -.00969904009, y: -1.59116264e-17, z: 7.9809595e-18}
+      rotation: {x: -.0925655738, y: .0568036325, z: .00203815498, w: .994082987}
+      scale: {x: 1.00000012, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: WinstmonBase:L_pinky_02
+      position: {x: -.0024201707, y: 2.32184453e-17, z: 8.24387968e-18}
+      rotation: {x: .01578971, y: .0146991853, z: .000232186576, w: .999767303}
+      scale: {x: 1.00000012, y: .99999994, z: 1}
+      transformModified: 1
+    - name: WinstmonBase:L_pinky_03
+      position: {x: -.00345080998, y: 1.20982436e-17, z: 2.01717009e-18}
+      rotation: {x: -.0334459431, y: -.0311868545, z: -.00104418339, w: .998953342}
+      scale: {x: .999999881, y: 1, z: 1}
+      transformModified: 1
+    - name: WinstmonBase:L_pinky_04
+      position: {x: -.00342189847, y: 8.19792368e-17, z: 1.01885474e-17}
+      rotation: {x: .0507529676, y: .116886005, z: -.395036757, w: .909784436}
+      scale: {x: .999999583, y: 1.00000072, z: .999999881}
+      transformModified: 1
+    - name: WinstmonBase:R_clav
+      position: {x: -.0260932557, y: -.00283344649, z: -.00208000001}
+      rotation: {x: -.697318196, y: .0974280685, z: .703278005, w: .0982607827}
+      scale: {x: 1.00000072, y: 1.00000036, z: 1.00000048}
+      transformModified: 1
+    - name: WinstmonBase:R_shoulder
+      position: {x: .012735147, y: -6.03118643e-18, z: -3.8032664e-07}
+      rotation: {x: -.0128136417, y: .0310037658, z: .00302131241, w: .999432623}
+      scale: {x: .999999523, y: .999999285, z: .999998927}
+      transformModified: 1
+    - name: WinstmonBase:R_elbow
+      position: {x: .0332880504, y: 6.42962739e-10, z: 8.21531714e-08}
+      rotation: {x: .0734685063, y: -.0397326872, z: -.0368647426, w: .995823681}
+      scale: {x: .999999642, y: .999998808, z: .999999404}
+      transformModified: 1
+    - name: WinstmonBase:R_wrist
+      position: {x: .0309213083, y: 2.06471746e-08, z: 3.90309083e-08}
+      rotation: {x: .0236301143, y: .0168600548, z: -.0387175716, w: .998828471}
+      scale: {x: 1.00000119, y: 1.00000024, z: 1.00000048}
+      transformModified: 1
+    - name: WinstmonBase:R_hand
+      position: {x: .009819475, y: -2.20623058e-08, z: 3.49911858e-07}
+      rotation: {x: -.091194585, y: .0503616631, z: .128859892, w: .986175656}
+      scale: {x: .999999225, y: 1.00000131, z: .999999762}
+      transformModified: 1
+    - name: WinstmonBase:R_ring_01
+      position: {x: .00808975566, y: 1.45950685e-09, z: -6.32240855e-08}
+      rotation: {x: .0246960707, y: .0259368829, z: -.100436404, w: .994298697}
+      scale: {x: .999999762, y: 1.00000036, z: .999999821}
+      transformModified: 1
+    - name: WinstmonBase:R_ring_02
+      position: {x: .00328894169, y: -3.96438304e-09, z: -8.18518373e-08}
+      rotation: {x: -.022719916, y: -.0358134992, z: .0207883921, w: .998883963}
+      scale: {x: .99999994, y: .999999702, z: 1.00000024}
+      transformModified: 1
+    - name: WinstmonBase:R_ring_03
+      position: {x: .00353307533, y: 6.17127571e-10, z: 3.01456168e-07}
+      rotation: {x: .0133594181, y: -.0235373043, z: -.0144115966, w: .999529839}
+      scale: {x: .999999881, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: WinstmonBase:R_ring_04
+      position: {x: .00470669754, y: 2.22139618e-09, z: -5.36573054e-07}
+      rotation: {x: .665855706, y: .262755185, z: .237983584, w: -.656475186}
+      scale: {x: .999999046, y: 1.00000107, z: .999999881}
+      transformModified: 1
+    - name: WinstmonBase:R_middle_01
+      position: {x: .00781281479, y: -.00303689926, z: .000184090182}
+      rotation: {x: .093525663, y: .0355982296, z: -.124250785, w: .987191796}
+      scale: {x: .999999881, y: 1.00000083, z: .999999881}
+      transformModified: 1
+    - name: WinstmonBase:R_middle_02
+      position: {x: .00393322203, y: 3.2744113e-10, z: 1.36249298e-07}
+      rotation: {x: -.00845420361, y: -.0415239334, z: .00855740905, w: .999065101}
+      scale: {x: .999999523, y: .999999464, z: .999999821}
+      transformModified: 1
+    - name: WinstmonBase:R_middle_03
+      position: {x: .00331496377, y: -4.15269907e-09, z: -2.28394811e-07}
+      rotation: {x: -.00545079587, y: -.023892533, z: .00629185792, w: .999679863}
+      scale: {x: 1.00000012, y: 1.0000006, z: 1}
+      transformModified: 1
+    - name: WinstmonBase:R_middle_04
+      position: {x: .00437778421, y: -3.28951266e-08, z: -4.84924669e-07}
+      rotation: {x: .687543154, y: .310253382, z: .165179849, w: -.635407627}
+      scale: {x: .999999166, y: 1.00000036, z: .999999225}
+      transformModified: 1
+    - name: WinstmonBase:R_index_01
+      position: {x: .00636167312, y: -.00608976511, z: .00023803988}
+      rotation: {x: .187859565, y: .0168267693, z: -.185295403, w: .964412391}
+      scale: {x: .999999881, y: 1.00000048, z: 1}
+      transformModified: 1
+    - name: WinstmonBase:R_index_02
+      position: {x: .00337281288, y: -1.97373513e-08, z: -2.07687677e-07}
+      rotation: {x: -.0248323698, y: -.0372028463, z: .0136899501, w: .998905361}
+      scale: {x: .999999702, y: 1, z: 1.00000024}
+      transformModified: 1
+    - name: WinstmonBase:R_index_03
+      position: {x: .00290888222, y: 7.33555616e-09, z: 4.54781457e-07}
+      rotation: {x: .000337267178, y: -.0413223393, z: -.000398795906, w: .999145806}
+      scale: {x: .999999702, y: 1.00000012, z: 1.00000024}
+      transformModified: 1
+    - name: WinstmonBase:R_index_04
+      position: {x: .00404088572, y: -1.87554203e-08, z: -2.13886608e-07}
+      rotation: {x: .706273317, y: .357682139, z: .034321703, w: -.609970152}
+      scale: {x: .999999285, y: 1.00000072, z: .999999881}
+      transformModified: 1
+    - name: WinstmonBase:R_thumb_01
+      position: {x: -.00498594949, y: -.0016928541, z: -.00133132527}
+      rotation: {x: .286733061, y: -.0974402279, z: -.471894324, w: .828012884}
+      scale: {x: .999999285, y: .999999464, z: 1.00000036}
+      transformModified: 1
+    - name: WinstmonBase:R_thumb_02
+      position: {x: .00560548808, y: 8.56313864e-09, z: 3.7554841e-07}
+      rotation: {x: .116703898, y: -.00320787658, z: -.033724986, w: .992588818}
+      scale: {x: 1.0000006, y: .999999464, z: 1.00000024}
+      transformModified: 1
+    - name: WinstmonBase:R_thumb_03
+      position: {x: .00413568644, y: -1.03493223e-08, z: -8.36336483e-07}
+      rotation: {x: .00957774743, y: .0395191684, z: -.00871503819, w: .999134958}
+      scale: {x: 1, y: .999999464, z: .999999642}
+      transformModified: 1
+    - name: WinstmonBase:R_thumb_04
+      position: {x: .0039330381, y: 2.67937743e-08, z: 5.75363174e-07}
+      rotation: {x: -.231273949, y: -.221746325, z: .683765113, w: .655595958}
+      scale: {x: 1.0000006, y: 1.00000024, z: 1.00000072}
+      transformModified: 1
+    - name: WinstmonBase:R_pinky
+      position: {x: -.00208081189, y: .00345026865, z: -.000263565336}
+      rotation: {x: .0268349387, y: .00721953809, z: -.0335858315, w: .999049425}
+      scale: {x: .999999702, y: 1.0000006, z: 1}
+      transformModified: 1
+    - name: WinstmonBase:R_pinky_01
+      position: {x: .00969845429, y: 4.76901674e-09, z: 6.73657098e-07}
+      rotation: {x: -.0925652981, y: .00202850206, z: -.0568081364, w: .994082689}
+      scale: {x: 1.00000024, y: .999999404, z: .99999994}
+      transformModified: 1
+    - name: WinstmonBase:R_pinky_02
+      position: {x: .00242017233, y: -8.66344418e-09, z: 1.62270375e-08}
+      rotation: {x: .0157896429, y: .0002322644, z: -.0146993697, w: .999767244}
+      scale: {x: 1.00000012, y: 1, z: .999999881}
+      transformModified: 1
+    - name: WinstmonBase:R_pinky_03
+      position: {x: .00345135154, y: -1.05590525e-09, z: -4.55312744e-07}
+      rotation: {x: -.0334459059, y: -.00104415405, z: .0311869048, w: .998953283}
+      scale: {x: 1.00000012, y: .99999994, z: 1}
+      transformModified: 1
+    - name: WinstmonBase:R_pinky_04
+      position: {x: .00342172012, y: -4.63258365e-09, z: 1.74081279e-07}
+      rotation: {x: .607426882, y: .196682319, z: .361984074, w: -.679202616}
+      scale: {x: .999999285, y: 1.00000012, z: .999999762}
+      transformModified: 1
+    - name: WinstmonBase:spine_04
+      position: {x: -.0301198754, y: -2.44249064e-17, z: -1.51570458e-17}
+      rotation: {x: -.914739549, y: .404043972, z: -1.4901163e-08, w: 2.98023259e-08}
+      scale: {x: 1, y: 1.00000083, z: 1.00000036}
+      transformModified: 1
+    - name: WinstmonBase:neck
+      position: {x: -.00770961447, y: 1.0016986e-17, z: 1.60804904e-18}
+      rotation: {x: -1.49011612e-08, y: -1.49011612e-08, z: -.0905889124, w: .995888352}
+      scale: {x: .999999762, y: .999999702, z: .999999762}
+      transformModified: 1
+    - name: WinstmonBase:head1
+      position: {x: -.00738115842, y: -7.52063349e-18, z: 1.6389464e-18}
+      rotation: {x: -1.4901163e-08, y: 4.47034907e-08, z: -.141079485, w: .989998281}
+      scale: {x: 1, y: 1.00000024, z: .999999762}
+      transformModified: 1
+    - name: WinstmonBase:L_eye
+      position: {x: -.00887930486, y: -.00610780157, z: -.00372149423}
+      rotation: {x: .477080256, y: -.521914184, z: .477080315, w: .521914124}
+      scale: {x: .999999702, y: 1, z: .999999821}
+      transformModified: 1
+    - name: WinstmonBase:R_eye
+      position: {x: -.00887901522, y: -.0061077904, z: .0037214898}
+      rotation: {x: .477080256, y: -.521914184, z: .477080315, w: .521914124}
+      scale: {x: 1, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: WinstmonBase:top_head
+      position: {x: -.0224140882, y: -7.25018927e-18, z: 6.51661034e-18}
+      rotation: {x: .477080256, y: -.521914184, z: .477080315, w: .521914124}
+      scale: {x: 1.00000036, y: 1, z: 1.00000083}
+      transformModified: 1
+    - name: WinstmonBase:L_hip
+      position: {x: .00962125603, y: -.0019793713, z: .0103028715}
+      rotation: {x: -.0204604119, y: .281914592, z: .948643446, w: .14206022}
+      scale: {x: 1.00000083, y: 1.00000095, z: 1.00000012}
+      transformModified: 1
+    - name: WinstmonBase:L_knee
+      position: {x: -.0581660643, y: 1.69070225e-17, z: -1.03441882e-18}
+      rotation: {x: .154595062, y: .0273356438, z: .0454965159, w: .986551166}
+      scale: {x: 1.00000012, y: .999999166, z: 1.00000048}
+      transformModified: 1
+    - name: WinstmonBase:L_ankle
+      position: {x: -.0563392825, y: 5.11545365e-18, z: 1.35627563e-18}
+      rotation: {x: .75226444, y: .31987974, z: -.155374631, w: .554647624}
+      scale: {x: .999999702, y: .999999881, z: .999999523}
+      transformModified: 1
+    - name: WinstmonBase:L_ball
+      position: {x: -.0109798834, y: .00141375326, z: .00050035154}
+      rotation: {x: .0130241215, y: .025295414, z: -.407711446, w: .912667513}
+      scale: {x: 1.00000012, y: .999999821, z: 1.00000024}
+      transformModified: 1
+    - name: WinstmonBase:L_toe
+      position: {x: -.00983865, y: .00115177652, z: .000150809181}
+      rotation: {x: -.0166195631, y: -.600356758, z: -.0221256036, w: .799253464}
+      scale: {x: .999999762, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: WinstmonBase:R_hip
+      position: {x: .00962139666, y: -.00197936688, z: -.0103028994}
+      rotation: {x: -.989195526, y: .13210018, z: .056118384, w: .0298743397}
+      scale: {x: .99999851, y: 1.00000107, z: .999997139}
+      transformModified: 1
+    - name: WinstmonBase:R_knee
+      position: {x: .0581658967, y: 4.65229206e-08, z: -9.73392922e-09}
+      rotation: {x: .0134756286, y: .00626227353, z: -.0527062789, w: .998499513}
+      scale: {x: 1.00000012, y: 1.00000036, z: 1.00000072}
+      transformModified: 1
+    - name: WinstmonBase:R_ankle
+      position: {x: .0563393198, y: -5.17007948e-09, z: 3.45924178e-08}
+      rotation: {x: .21735841, y: .018323496, z: .355145812, w: -.909005582}
+      scale: {x: .999999821, y: 1, z: .999999821}
+      transformModified: 1
+    - name: WinstmonBase:R_ball
+      position: {x: .0110290628, y: -1.57802837e-09, z: 6.53592602e-09}
+      rotation: {x: .0130240861, y: .0252954364, z: -.407711565, w: .912667394}
+      scale: {x: .999998987, y: 1.0000006, z: .999999881}
+      transformModified: 1
+    - name: WinstmonBase:R_toe
+      position: {x: .0095274765, y: -1.09344123e-09, z: -5.28114574e-09}
+      rotation: {x: -.0166195389, y: -.600356817, z: -.0221255682, w: .799253464}
+      scale: {x: 1.00000036, y: 1.00000048, z: .999999464}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
